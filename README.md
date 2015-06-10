@@ -9,3 +9,15 @@ https://gist.github.com/shan
 
 ## Interests
 I'm interested in data, humans, and programming. I also love implementing and appreciating great design. 
+
+tl;dr: 
+* data processing 
+* programming
+* product development 
+* design
+
+## Experience
+* Django development
+* NodeJS for tooling
+* ReactJS
+* d3 for data visualization
