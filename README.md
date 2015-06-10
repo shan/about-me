@@ -1,4 +1,6 @@
-# about-me
+# meta
+
+This is a repository about my repositories. 
 
 I noticed some Github repositories serve as references, guides or storage. So it's only right I have a respository that describes me. 
 
