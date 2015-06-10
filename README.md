@@ -2,7 +2,7 @@
 
 This is a repository about my repositories. 
 
-I noticed some Github repositories serve as references, guides or storage. So it's only right I have a respository that describes me. 
+I noticed some Github repositories serve as references, guides or storage. So it's only right I have a respository that describes me and my repositories. 
 
 ## Me elsewhere
 https://gist.github.com/shan
