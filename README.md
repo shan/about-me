@@ -7,6 +7,9 @@ I noticed some Github repositories serve as references, guides or storage. So it
 ## Me elsewhere
 https://gist.github.com/shan
 
+## Overview of projects
+I tend towards uploading open source code for projects at ver 0.4.0 at the very earliest. At the moment (6/10/2015), I don't have such repositories. These projects are typically related to my interests. 
+
 ## Interests
 I'm interested in data, humans, and programming. I also love implementing and appreciating great design. 
 
